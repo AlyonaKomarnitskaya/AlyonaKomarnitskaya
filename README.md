@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="170"/>
   
   ## Hi there, I'm Alyona 👋
-  ### Java developer
 </div>
 
 
