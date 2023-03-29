@@ -11,7 +11,7 @@ ___
 ### How to contact me:
 Send email to: mixinny1@gmail.com 
 
-Write in telegram: [@esiugimed](https://t.me/esiugimed)
+Write in telegram: [@alyonakdev](https://t.me/alyonakdev)
 
 👨‍💻 All my projects are available [here](https://github.com/AlyonaKomarnitskaya?tab=repositories)
 
