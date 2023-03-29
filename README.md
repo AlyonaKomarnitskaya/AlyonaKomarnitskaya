@@ -5,11 +5,16 @@
   ### Java developer
 </div>
 
-### How to contact me:
+
+### I'm looking forward to starting my career as a Java developer
 ___
+
+### How to contact me:
 Send email to: mixinny1@gmail.com 
 
 Write in telegram: [@esiugimed](https://t.me/esiugimed)
+
+👨‍💻 All my projects are available [here](https://github.com/AlyonaKomarnitskaya?tab=repositories)
 
 ### My tech stack
 
@@ -28,4 +33,6 @@ ___
 
 ### Github Stats
 ___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyonaKomarnitskaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://komarev.com/ghpvc/?username=your-github-AlyonaKomarnitskaya&style=flat-square&color=blue" alt=""/>
