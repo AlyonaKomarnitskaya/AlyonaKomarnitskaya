@@ -5,8 +5,6 @@
 </div>
 
 
-___
-
 ### How to contact me:
 Send email to: mixinny1@gmail.com 
 
