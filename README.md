@@ -5,7 +5,6 @@
 </div>
 
 
-### I'm looking forward to starting my career as a Java developer
 ___
 
 ### How to contact me:
