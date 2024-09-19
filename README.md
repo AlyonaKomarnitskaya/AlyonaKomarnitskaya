@@ -8,7 +8,7 @@
 ### How to contact me:
 Send email to: mixinny1@gmail.com 
 
-Write in telegram: [@alyonakdev](https://t.me/alyonakdev)
+Write in telegram: [@lyonatuna](https://t.me/lyonatuna)
 
 👨‍💻 All my projects are available [here](https://github.com/AlyonaKomarnitskaya?tab=repositories)
 
