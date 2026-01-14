@@ -28,6 +28,5 @@ ___
 
 ### Github Stats
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyonaKomarnitskaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-AlyonaKomarnitskaya&style=flat-square&color=blue" alt=""/>
