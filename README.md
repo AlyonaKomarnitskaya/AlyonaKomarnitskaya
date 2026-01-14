@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="170"/>
   
-  ## Hi there, I'm Alyona 👋
+  ## Hi, I'm Alyona 👋 
+  ## Now working as Tech recruiter, looking for Java and Python developers, System analysts. Open to relocate for work. 
 </div>
 
 
